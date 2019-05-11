@@ -11,7 +11,7 @@ In your bash shell (Terminal.app on macOS) enter the following:
 ```
 git clone https://github.com/ninjha01/fission
 cd ./fission;
-python setup.py
+python setup.py install
 ```
 
 
